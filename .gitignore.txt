@@ -1,0 +1,4 @@
+.Rhistory
+link to our blog
+.Rproj.user/
+www/
